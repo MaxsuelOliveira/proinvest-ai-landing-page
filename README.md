@@ -1,8 +1,37 @@
-# React + Vite
+# ProInvest — Automação com Inteligência Artificial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Protótipo público de landing page para uma empresa de automações e soluções com inteligência artificial.
 
-Currently, two official plugins are available:
+> Este projeto é uma demonstração de frontend. Empresas, estatísticas, contatos, depoimentos e resultados exibidos na interface são exemplos fictícios e não devem ser interpretados como alegações comerciais reais.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Stack
+
+- React
+- React Router
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+
+## Desenvolvimento
+
+```bash
+npm install
+npm run dev
+```
+
+## Verificação
+
+```bash
+npm run lint
+npm run build
+npm run preview
+```
+
+## Status
+
+Projeto demonstrativo. O nome recomendado para o repositório é `proinvest-ai-landing-page`.
+
+## Licença
+
+Código disponibilizado sob a licença MIT. Consulte `LICENSE`.
